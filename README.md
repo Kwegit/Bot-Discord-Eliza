@@ -1,10 +1,10 @@
 # Initialisation 
 dans un terminal rentrer :
 ```bash
-npm install contenv discord.js
+npm i
 ```
 ```bash
-npm install openai 
+node index.js
 ```
 ## Créer un ficher avec les clées
 
